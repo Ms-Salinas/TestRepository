@@ -8,7 +8,7 @@ public class StringSearch
 {
 	/*
 	 *method countWords will count the occurrences of word in sent
-	 *there may many occurrences of word or none at all
+	 *there may many occurrences of word or none at all these are my changes!!!!!!!!!!
 	 */
 	public static int countWords(String sent, String word)
 	{
